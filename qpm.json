@@ -1,0 +1,59 @@
+{
+  "sharedDir": "shared",
+  "dependenciesDir": "extern",
+  "info": {
+    "name": "AudioTweaks",
+    "id": "AudioTweaks",
+    "version": "0.1.0",
+    "url": null,
+    "additionalData": {}
+  },
+  "dependencies": [
+    {
+      "id": "beatsaber-hook",
+      "versionRange": "^3.8.1",
+      "additionalData": {
+        "extraFiles": [
+          "src/inline-hook"
+        ]
+      }
+    },
+    {
+      "id": "custom-types",
+      "versionRange": "^0.15",
+      "additionalData": {
+        "includeQmod": false,
+        "private": true
+      }
+    },
+    {
+      "id": "codegen",
+      "versionRange": "^0.25.0",
+      "additionalData": {
+        "includeQmod": false,
+        "private": true
+      }
+    },
+    {
+      "id": "modloader",
+      "versionRange": "^1.2.3",
+      "additionalData": {
+        "private": true
+      }
+    },
+    {
+      "id": "questui",
+      "versionRange": "^0.16.4",
+      "additionalData": {
+        "includeQmod": false,
+        "private": true
+      }
+    },
+    {
+      "id": "libcryptopp",
+      "versionRange": "^8.5.0",
+      "additionalData": {}
+    }
+  ],
+  "additionalData": {}
+}

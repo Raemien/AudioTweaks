@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Quest",
+            "defines": [
+                "MOD_ID=\"AudioTweaks\"",
+                "VERSION=\"0.1.0\"",
+                "__GNUC__",
+                "__aarch64__"
+            ],
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/extern/includes/libil2cpp/il2cpp/libil2cpp",
+                "d:/QuestModDev/References/android-ndk-r23b/**"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
