@@ -1,6 +1,9 @@
 # Audio Tweaks
 A Quest Beat Saber mod for configuring advanced audio settings.
 
+[![](https://i.imgur.com/Obvwzbum.jpg)](https://i.imgur.com/Obvwzbu.png)
+[![](https://i.imgur.com/B8rR0hSm.jpg)](https://i.imgur.com/B8rR0hS.png)
+
 ## Configuration:
 * **DSP Buffer Size:** Samples to keep "buffered" before playback. Higher values fix issues with Bluetooth devices.
 * **Swap Channels:** Swaps the left and right audio channel outputs.
